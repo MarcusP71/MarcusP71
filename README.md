@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MarcusP71
+- 👋 Hi, I’m Marcus
 - 👀 I’m interested in Java, C++, PHP, Webdesign
 - 🌱 I’m currently learning Java
 
