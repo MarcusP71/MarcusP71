@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marcus
-- 👀 I’m interested in Java, C++, PHP, Webdesign
+- 👀 I’m interested in Java, PHP, Webdesign
 - 🌱 I’m currently learning Java
 
 <!---
